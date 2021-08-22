@@ -1,0 +1,17 @@
+.carousel-inner {
+  /* Makes the carousel image a set height. */
+  /*height: 400px !important;*/
+}
+.attop {
+  align: top;
+}
+.bold {
+  font-weight: bold;
+}
+.bg-cover {
+    background-attachment: scroll;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*height: 500px;*/
+}
